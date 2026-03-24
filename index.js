@@ -23,7 +23,6 @@ console.log('Shalom, Hexlet!');
 // ⣿⢸⣿⠃⢀⣀⣴⡟⠄⣿⡿⠄⣿⠄⣼⡿⠄⣼⠄⢾⣯⡄⠄⣿⠄⣤⣼⣿⡇⣿
 // ⣿⢸⣿⣠⣾⣿⣿⣿⣄⣀⣠⣼⣿⣀⣠⣤⣾⣿⣦⣀⣉⣠⣾⣧⣤⣠⣼⣿⡇⣿
 // ⣿⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣿
-console.log(_.last(['one', 'two']));
-import run from './src/index.js';
+import runProject from './src/index.js';
 
-run();
+runProject();

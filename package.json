@@ -1,9 +1,19 @@
 {
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "hexlet-js": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "devDependencies": {
-    "hexo": "^8.1.1",
-    "hexo-cli": "^4.3.2",
-    "lodash": "^4.17.23",
-    "prettier": "^3.8.1"
+    "prettier": "^3.0.0"
   }
 }
 

@@ -1,5 +1,8 @@
 {
   "devDependencies": {
-    "lodash": "^4.17.23"
+    "hexo": "^8.1.1",
+    "hexo-cli": "^4.3.2",
+    "lodash": "^4.17.23",
+    "prettier": "^3.8.1"
   }
 }
